@@ -67,7 +67,7 @@ public class BaseClass {
 				cap.setBrowserName("firefox");
 				break;
 			default:
-				System.out.println("No matching browser");
+				System.out.println("No matching browser available");
 				return;
 			}
 
