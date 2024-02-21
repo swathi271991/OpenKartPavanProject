@@ -1,0 +1,49 @@
+2024-02-19_19:12:36.304 [main] INFO  testCases.TC001_RegistrationTestCase - ************starting register account verification test******************
+2024-02-19_19:12:36.414 [main] INFO  testCases.TC001_RegistrationTestCase - clicked on Register link
+2024-02-19_19:12:40.534 [main] INFO  testCases.TC001_RegistrationTestCase - Entered firstname
+2024-02-19_19:12:40.612 [main] INFO  testCases.TC001_RegistrationTestCase - Entered lastname
+2024-02-19_19:12:40.692 [main] INFO  testCases.TC001_RegistrationTestCase - Entered email
+2024-02-19_19:12:40.767 [main] INFO  testCases.TC001_RegistrationTestCase - Entered phone number
+2024-02-19_19:12:40.947 [main] INFO  testCases.TC001_RegistrationTestCase - selected radio button
+2024-02-19_19:12:41.061 [main] INFO  testCases.TC001_RegistrationTestCase - Entered password
+2024-02-19_19:12:41.162 [main] INFO  testCases.TC001_RegistrationTestCase - Entered confirm password
+2024-02-19_19:12:41.212 [main] INFO  testCases.TC001_RegistrationTestCase - clicked checkbox
+2024-02-19_19:12:41.331 [main] INFO  testCases.TC001_RegistrationTestCase - clicked occupation
+2024-02-19_19:12:41.500 [main] INFO  testCases.TC001_RegistrationTestCase - selecting Engineer from dropdown
+2024-02-19_19:12:44.555 [main] INFO  testCases.TC001_RegistrationTestCase - clicked Register button
+2024-02-19_19:15:56.768 [main] INFO  testCases.TC001_RegistrationTestCase - ************starting register account verification test******************
+2024-02-19_19:15:56.892 [main] INFO  testCases.TC001_RegistrationTestCase - clicked on Register link
+2024-02-19_19:16:01.017 [main] INFO  testCases.TC001_RegistrationTestCase - Entered firstname
+2024-02-19_19:16:01.101 [main] INFO  testCases.TC001_RegistrationTestCase - Entered lastname
+2024-02-19_19:16:01.184 [main] INFO  testCases.TC001_RegistrationTestCase - Entered email
+2024-02-19_19:16:01.254 [main] INFO  testCases.TC001_RegistrationTestCase - Entered phone number
+2024-02-19_19:16:01.438 [main] INFO  testCases.TC001_RegistrationTestCase - selected radio button
+2024-02-19_19:16:01.534 [main] INFO  testCases.TC001_RegistrationTestCase - Entered password
+2024-02-19_19:16:01.619 [main] INFO  testCases.TC001_RegistrationTestCase - Entered confirm password
+2024-02-19_19:16:01.666 [main] INFO  testCases.TC001_RegistrationTestCase - clicked checkbox
+2024-02-19_19:16:01.729 [main] INFO  testCases.TC001_RegistrationTestCase - clicked occupation
+2024-02-19_19:16:01.918 [main] INFO  testCases.TC001_RegistrationTestCase - selecting Engineer from dropdown
+2024-02-19_19:16:04.972 [main] INFO  testCases.TC001_RegistrationTestCase - clicked Register button
+2024-02-19_19:16:05.151 [main] INFO  testCases.TC001_RegistrationTestCase - validated Account creating mesgg successfully
+2024-02-19_19:16:05.151 [main] INFO  testCases.TC001_RegistrationTestCase - ************completed register account verification test******************
+2024-02-19_19:17:56.652 [main] INFO  testCases.TC001_RegistrationTestCase - ************starting register account verification test******************
+2024-02-19_19:17:56.774 [main] INFO  testCases.TC001_RegistrationTestCase - clicked on Register link
+2024-02-19_19:18:00.934 [main] INFO  testCases.TC001_RegistrationTestCase - Entered firstname
+2024-02-19_19:18:01.001 [main] INFO  testCases.TC001_RegistrationTestCase - Entered lastname
+2024-02-19_19:18:01.067 [main] INFO  testCases.TC001_RegistrationTestCase - Entered email
+2024-02-19_19:18:01.134 [main] INFO  testCases.TC001_RegistrationTestCase - Entered phone number
+2024-02-19_19:18:01.302 [main] INFO  testCases.TC001_RegistrationTestCase - selected radio button
+2024-02-19_19:18:01.436 [main] INFO  testCases.TC001_RegistrationTestCase - Entered password
+2024-02-19_19:18:01.522 [main] INFO  testCases.TC001_RegistrationTestCase - Entered confirm password
+2024-02-19_19:18:01.565 [main] INFO  testCases.TC001_RegistrationTestCase - clicked checkbox
+2024-02-19_19:18:01.645 [main] INFO  testCases.TC001_RegistrationTestCase - clicked occupation
+2024-02-19_19:18:01.789 [main] INFO  testCases.TC001_RegistrationTestCase - selecting Engineer from dropdown
+2024-02-19_19:18:04.850 [main] INFO  testCases.TC001_RegistrationTestCase - clicked Register button
+2024-02-19_19:18:14.889 [main] ERROR testCases.TC001_RegistrationTestCase - test failed
+2024-02-19_19:18:17.175 [main] INFO  testCases.TC002_LoginTestCase - *********Started Login Method*************
+2024-02-19_19:18:17.330 [main] INFO  testCases.TC002_LoginTestCase - Entered username
+2024-02-19_19:18:17.432 [main] INFO  testCases.TC002_LoginTestCase - Entered password
+2024-02-19_19:18:17.483 [main] INFO  testCases.TC002_LoginTestCase - clicked on login button
+2024-02-19_19:18:17.710 [main] INFO  testCases.TC002_LoginTestCase - ORDERS button is displayed
+2024-02-19_19:18:19.922 [main] INFO  testCases.TC002_LoginTestCase - *********Completed Login Method*************
+2024-02-19_19:25:26.546 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTestCase - ************starting register account verification test******************

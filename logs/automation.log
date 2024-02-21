@@ -1,0 +1,10 @@
+2024-02-21_15:01:53.878 [main] INFO  testCases.TC001_RegistrationTestCase - selecting Engineer from dropdown
+2024-02-21_15:01:56.930 [main] INFO  testCases.TC001_RegistrationTestCase - clicked Register button
+2024-02-21_15:01:57.107 [main] INFO  testCases.TC001_RegistrationTestCase - validated Account creating mesgg successfully
+2024-02-21_15:01:57.107 [main] INFO  testCases.TC001_RegistrationTestCase - ************completed register account verification test******************
+2024-02-21_15:02:00.009 [main] INFO  testCases.TC002_LoginTestCase - *********Started Login Method*************
+2024-02-21_15:02:00.356 [main] INFO  testCases.TC002_LoginTestCase - Entered username
+2024-02-21_15:02:00.455 [main] INFO  testCases.TC002_LoginTestCase - Entered password
+2024-02-21_15:02:00.507 [main] INFO  testCases.TC002_LoginTestCase - clicked on login button
+2024-02-21_15:02:00.795 [main] INFO  testCases.TC002_LoginTestCase - ORDERS button is displayed
+2024-02-21_15:02:03.022 [main] INFO  testCases.TC002_LoginTestCase - *********Completed Login Method*************

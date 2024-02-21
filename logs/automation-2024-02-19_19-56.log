@@ -1,0 +1,46 @@
+2024-02-19_19:54:11.088 [TestNG-tests-2] INFO  testCases.TC002_LoginTestCase - clicked on login button
+2024-02-19_19:54:13.972 [TestNG-tests-3] INFO  testCases.TC003_LoginDDTTestCase - *********Started Login DDT*************
+2024-02-19_19:54:14.076 [TestNG-tests-3] INFO  testCases.TC003_LoginDDTTestCase - Entered username
+2024-02-19_19:54:14.129 [TestNG-tests-3] INFO  testCases.TC003_LoginDDTTestCase - Entered password
+2024-02-19_19:54:14.368 [TestNG-tests-3] INFO  testCases.TC003_LoginDDTTestCase - clicked on login button
+2024-02-19_19:54:14.613 [TestNG-tests-3] INFO  testCases.TC003_LoginDDTTestCase - logged in successfully
+2024-02-19_19:54:15.388 [TestNG-tests-1] ERROR testCases.TC001_RegistrationTestCase - test failed
+2024-02-19_19:54:20.656 [TestNG-tests-3] INFO  testCases.TC003_LoginDDTTestCase - Please select execution status as Y in excel for the data to execute
+2024-02-19_19:54:21.152 [TestNG-tests-2] INFO  testCases.TC002_LoginTestCase - ORDERS button is not displayed
+2024-02-19_19:54:26.173 [TestNG-tests-3] INFO  testCases.TC003_LoginDDTTestCase - Please select execution status as Y in excel for the data to execute
+2024-02-19_19:54:32.165 [TestNG-tests-3] INFO  testCases.TC003_LoginDDTTestCase - Please select execution status as Y in excel for the data to execute
+2024-02-19_19:54:37.432 [TestNG-tests-3] INFO  testCases.TC003_LoginDDTTestCase - *********Started Login DDT*************
+2024-02-19_19:54:37.501 [TestNG-tests-3] INFO  testCases.TC003_LoginDDTTestCase - Entered username
+2024-02-19_19:54:37.538 [TestNG-tests-3] INFO  testCases.TC003_LoginDDTTestCase - Entered password
+2024-02-19_19:54:37.786 [TestNG-tests-3] INFO  testCases.TC003_LoginDDTTestCase - clicked on login button
+2024-02-19_19:54:47.805 [TestNG-tests-3] INFO  testCases.TC003_LoginDDTTestCase - invalid credentials
+2024-02-19_19:55:38.333 [main] INFO  testCases.TC001_RegistrationTestCase - ************starting register account verification test******************
+2024-02-19_19:55:38.471 [main] INFO  testCases.TC001_RegistrationTestCase - clicked on Register link
+2024-02-19_19:55:42.607 [main] INFO  testCases.TC001_RegistrationTestCase - Entered firstname
+2024-02-19_19:55:42.710 [main] INFO  testCases.TC001_RegistrationTestCase - Entered lastname
+2024-02-19_19:55:42.831 [main] INFO  testCases.TC001_RegistrationTestCase - Entered email
+2024-02-19_19:55:42.946 [main] INFO  testCases.TC001_RegistrationTestCase - Entered phone number
+2024-02-19_19:55:43.131 [main] INFO  testCases.TC001_RegistrationTestCase - selected radio button
+2024-02-19_19:55:43.294 [main] INFO  testCases.TC001_RegistrationTestCase - Entered password
+2024-02-19_19:55:43.427 [main] INFO  testCases.TC001_RegistrationTestCase - Entered confirm password
+2024-02-19_19:55:43.499 [main] INFO  testCases.TC001_RegistrationTestCase - clicked checkbox
+2024-02-19_19:55:43.613 [main] INFO  testCases.TC001_RegistrationTestCase - clicked occupation
+2024-02-19_19:55:43.852 [main] INFO  testCases.TC001_RegistrationTestCase - selecting Engineer from dropdown
+2024-02-19_19:55:46.904 [main] INFO  testCases.TC001_RegistrationTestCase - clicked Register button
+2024-02-19_19:55:47.416 [main] INFO  testCases.TC001_RegistrationTestCase - validated Account creating mesgg successfully
+2024-02-19_19:55:47.416 [main] INFO  testCases.TC001_RegistrationTestCase - ************completed register account verification test******************
+2024-02-19_19:55:52.857 [main] INFO  testCases.TC002_LoginTestCase - *********Started Login Method*************
+2024-02-19_19:55:53.018 [main] INFO  testCases.TC002_LoginTestCase - Entered username
+2024-02-19_19:55:53.121 [main] INFO  testCases.TC002_LoginTestCase - Entered password
+2024-02-19_19:55:53.169 [main] INFO  testCases.TC002_LoginTestCase - clicked on login button
+2024-02-19_19:55:53.392 [main] INFO  testCases.TC002_LoginTestCase - ORDERS button is displayed
+2024-02-19_19:55:55.600 [main] INFO  testCases.TC002_LoginTestCase - *********Completed Login Method*************
+2024-02-19_19:56:01.218 [main] INFO  testCases.TC003_LoginDDTTestCase - *********Started Login DDT*************
+2024-02-19_19:56:01.284 [main] INFO  testCases.TC003_LoginDDTTestCase - Entered username
+2024-02-19_19:56:01.320 [main] INFO  testCases.TC003_LoginDDTTestCase - Entered password
+2024-02-19_19:56:01.553 [main] INFO  testCases.TC003_LoginDDTTestCase - clicked on login button
+2024-02-19_19:56:01.775 [main] INFO  testCases.TC003_LoginDDTTestCase - logged in successfully
+2024-02-19_19:56:06.632 [main] INFO  testCases.TC003_LoginDDTTestCase - Please select execution status as Y in excel for the data to execute
+2024-02-19_19:56:11.483 [main] INFO  testCases.TC003_LoginDDTTestCase - Please select execution status as Y in excel for the data to execute
+2024-02-19_19:56:16.735 [main] INFO  testCases.TC003_LoginDDTTestCase - Please select execution status as Y in excel for the data to execute
+2024-02-19_19:56:21.752 [main] INFO  testCases.TC003_LoginDDTTestCase - *********Started Login DDT*************

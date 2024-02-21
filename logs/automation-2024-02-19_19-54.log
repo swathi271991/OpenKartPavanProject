@@ -1,0 +1,43 @@
+2024-02-19_19:48:10.138 [main] INFO  testCases.TC002_LoginTestCase - *********Completed Login Method*************
+2024-02-19_19:48:12.767 [main] INFO  testCases.TC003_LoginDDTTestCase - *********Started Login DDT*************
+2024-02-19_19:48:12.919 [main] INFO  testCases.TC003_LoginDDTTestCase - Entered username
+2024-02-19_19:48:13.034 [main] INFO  testCases.TC003_LoginDDTTestCase - Entered password
+2024-02-19_19:48:13.085 [main] INFO  testCases.TC003_LoginDDTTestCase - clicked on login button
+2024-02-19_19:48:13.522 [main] INFO  testCases.TC003_LoginDDTTestCase - logged in successfully
+2024-02-19_19:48:15.142 [main] INFO  testCases.TC003_LoginDDTTestCase - Please select execution status as Y in excel for the data to execute
+2024-02-19_19:48:18.316 [main] INFO  testCases.TC003_LoginDDTTestCase - Please select execution status as Y in excel for the data to execute
+2024-02-19_19:48:20.666 [main] INFO  testCases.TC003_LoginDDTTestCase - Please select execution status as Y in excel for the data to execute
+2024-02-19_19:48:22.372 [main] INFO  testCases.TC003_LoginDDTTestCase - *********Started Login DDT*************
+2024-02-19_19:48:22.529 [main] INFO  testCases.TC003_LoginDDTTestCase - Entered username
+2024-02-19_19:48:22.624 [main] INFO  testCases.TC003_LoginDDTTestCase - Entered password
+2024-02-19_19:48:22.671 [main] INFO  testCases.TC003_LoginDDTTestCase - clicked on login button
+2024-02-19_19:48:32.734 [main] INFO  testCases.TC003_LoginDDTTestCase - invalid credentials
+2024-02-19_19:50:00.486 [TestNG-test=Test-3] INFO  testCases.TC003_LoginDDTTestCase - Please select execution status as Y in excel for the data to execute
+2024-02-19_19:50:02.151 [TestNG-test=Test-3] INFO  testCases.TC003_LoginDDTTestCase - Please select execution status as Y in excel for the data to execute
+2024-02-19_19:50:04.443 [TestNG-test=Test-3] INFO  testCases.TC003_LoginDDTTestCase - Please select execution status as Y in excel for the data to execute
+2024-02-19_19:50:07.283 [TestNG-test=Test-3] INFO  testCases.TC003_LoginDDTTestCase - *********Started Login DDT*************
+2024-02-19_19:50:07.465 [TestNG-test=Test-3] INFO  testCases.TC003_LoginDDTTestCase - Entered username
+2024-02-19_19:50:07.569 [TestNG-test=Test-3] INFO  testCases.TC003_LoginDDTTestCase - Entered password
+2024-02-19_19:50:07.632 [TestNG-test=Test-3] INFO  testCases.TC003_LoginDDTTestCase - clicked on login button
+2024-02-19_19:50:07.632 [TestNG-test=Test-3] INFO  testCases.TC003_LoginDDTTestCase - invalid credentials
+2024-02-19_19:50:53.935 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTestCase - ************starting register account verification test******************
+2024-02-19_19:50:54.057 [TestNG-tests-2] INFO  testCases.TC002_LoginTestCase - *********Started Login Method*************
+2024-02-19_19:50:54.162 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTestCase - clicked on Register link
+2024-02-19_19:50:58.065 [TestNG-tests-3] INFO  testCases.TC003_LoginDDTTestCase - *********Started Login DDT*************
+2024-02-19_19:50:58.140 [TestNG-tests-3] INFO  testCases.TC003_LoginDDTTestCase - Entered username
+2024-02-19_19:50:58.180 [TestNG-tests-1] ERROR testCases.TC001_RegistrationTestCase - test failed
+2024-02-19_19:50:58.188 [TestNG-tests-3] INFO  testCases.TC003_LoginDDTTestCase - Entered password
+2024-02-19_19:50:58.542 [TestNG-tests-3] INFO  testCases.TC003_LoginDDTTestCase - clicked on login button
+2024-02-19_19:51:04.332 [TestNG-tests-3] INFO  testCases.TC003_LoginDDTTestCase - Please select execution status as Y in excel for the data to execute
+2024-02-19_19:51:10.123 [TestNG-tests-3] INFO  testCases.TC003_LoginDDTTestCase - Please select execution status as Y in excel for the data to execute
+2024-02-19_19:51:15.291 [TestNG-tests-3] INFO  testCases.TC003_LoginDDTTestCase - Please select execution status as Y in excel for the data to execute
+2024-02-19_19:51:20.513 [TestNG-tests-3] INFO  testCases.TC003_LoginDDTTestCase - *********Started Login DDT*************
+2024-02-19_19:51:20.580 [TestNG-tests-3] INFO  testCases.TC003_LoginDDTTestCase - Entered username
+2024-02-19_19:51:20.614 [TestNG-tests-3] INFO  testCases.TC003_LoginDDTTestCase - Entered password
+2024-02-19_19:51:20.866 [TestNG-tests-3] INFO  testCases.TC003_LoginDDTTestCase - clicked on login button
+2024-02-19_19:51:30.884 [TestNG-tests-3] INFO  testCases.TC003_LoginDDTTestCase - invalid credentials
+2024-02-19_19:54:10.635 [TestNG-tests-2] INFO  testCases.TC002_LoginTestCase - *********Started Login Method*************
+2024-02-19_19:54:10.699 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTestCase - ************starting register account verification test******************
+2024-02-19_19:54:10.836 [TestNG-tests-1] INFO  testCases.TC001_RegistrationTestCase - clicked on Register link
+2024-02-19_19:54:10.904 [TestNG-tests-2] INFO  testCases.TC002_LoginTestCase - Entered username
+2024-02-19_19:54:11.023 [TestNG-tests-2] INFO  testCases.TC002_LoginTestCase - Entered password
